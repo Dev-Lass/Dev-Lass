@@ -1,4 +1,15 @@
-## Hi there 👋
+## Bem vindo! 👋
+<p>Me chamo Willian, conhecido também como Lass.</p>
+<p>Trabalho atualmente como Desenvolvedor Front-End.</p>
+
+
+<p>Minhas Habilidades:</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,photoshop,premiere,gamemakerstudio)](https://skillicons.dev)
+
+<p>Estudando atualmente:</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,vuejs)](https://skillicons.dev)
 
 <!--
 **Dev-Lass/Dev-Lass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
