@@ -1,7 +1,6 @@
 ## Bem vindo! 👋
 <p>Me chamo Willian, conhecido também como Lass.</p>
 <p>Trabalho atualmente como Desenvolvedor Front-End.</p>
-<u>Não sou bom em design</u>
 
 
 <p>Minhas Habilidades:</p>
