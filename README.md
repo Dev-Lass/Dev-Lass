@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,vuejs)](https://skillicons.dev)
 
-Meus Hobbies: photoshop,premiere,gamemakerstudio
+Meus Hobbies: 
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,gamemakerstudio)](https://skillicons.dev)
 
